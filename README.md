@@ -24,7 +24,7 @@ The  flow of each nft game causes 3 main problems
 
 ## Web App Demo
 ### 1. Mantle Testnet : https://mantle-testnet.netlify.app
-### 2. 5ire Chain Testnet : https://5ire.netlify.app
+### 2. 5ireLabs Testnet : https://5ire.netlify.app
 ### 3. Thundercore Testnet & Librty : https://tcore.netlify.app
 
 ### Video Demo : https://youtu.be/9HMy53RN9Gw
