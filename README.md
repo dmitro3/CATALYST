@@ -27,13 +27,13 @@ The  flow of each nft game causes 3 main problems
 ### 2. 5ireLabs Testnet : https://5ire.netlify.app
 ### 3. Thundercore Testnet & Librty : https://tcore.netlify.app
 
-### Video Demo : https://youtu.be/9HMy53RN9Gw
-
 ## Features
 * Adventure, action RPG game
 * Multiple in-game items to unlock
 * Decentralized finance system (DeFi) with in-app items
 * Earn reward as ERC-20 token
+
+### Video Demo : https://youtu.be/9HMy53RN9Gw
 
 ## Roadmap
 - Multiplayer system
