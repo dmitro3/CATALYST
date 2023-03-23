@@ -1,0 +1,16 @@
+{
+  "name": "catalyst-core",
+  "author": "Adinda Ratnawati Ridwan || adinda.ratna.info@gmail.com",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.10"
+  },
+  "scripts": {
+    "deploy:mantle": "npx hardhat run --network mantleTestnet scripts/deploy.js",
+    "deploy:fire": "npx hardhat run --network fireTestnet scripts/deploy.js",
+    "deploy:thundercore": "npx hardhat run --network fireTestnet scripts/deploy.js"
+  }
+}

@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/structs/EnumerableSet.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/utils/structs/EnumerableSet.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract NinnjaTokenToken is ERC20 {
+contract NinjaCatalyst is ERC20 {
 
 
   address public owner;
@@ -17,7 +17,7 @@ contract NinnjaTokenToken is ERC20 {
     _;
 }
 
-    constructor() ERC20("NinjaToken", "NT") {
+    constructor() ERC20("Ninja Catalyst", "NC") {
       owner = msg.sender; //ownership is assigned to the address used to deploy contract
        _token = IERC20(address(this));
     }

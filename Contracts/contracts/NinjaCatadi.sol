@@ -2,14 +2,14 @@
 pragma solidity ^0.8.7;
 
 //Importing ERC 1155 Token contract from OpenZeppelin
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Strings.sol";
+import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 
 
-contract NinjaSamuraiContract is ERC1155 , Ownable  {
+contract NinjaCatadi is ERC1155 , Ownable  {
     
-    string constant public name = "NinjaSamurai";
+    string constant public name = "NinjaCatadi";
 
     mapping(uint256 => string) _tokenUrls;
     
