@@ -23,10 +23,11 @@ The  flow of each nft game causes 3 main problems
 7. Fully Ethereum Virtual Machine (EVM)
 
 ## Web App Demo
-1. Mantle Testnet : https://mantle-testnet.netlify.app
-2. 5ire Chain Testnet : https://5ire.netlify.app
-3. Thundercore Testnet & Librty : https://tcore.netlify.app
+### 1. Mantle Testnet : https://mantle-testnet.netlify.app
+### 2. 5ire Chain Testnet : https://5ire.netlify.app
+### 3. Thundercore Testnet & Librty : https://tcore.netlify.app
 
+### Video Demo : https://youtu.be/9HMy53RN9Gw
 
 ## Features
 * Adventure, action RPG game
@@ -60,8 +61,7 @@ The  flow of each nft game causes 3 main problems
 - [x] Catalyst: 0xEb1718d6126231deb419944ACF9c64Ede8F4B23a
 - [x] Catadi:  0xf50E9Ade087CdC785b7fA8d634D00377Be8d368c
 
-### Video Demo
-### Youtube.com
+
 ### Ninja Catalyst Game Prof.
 ### Front UI
 <p align ="center">
